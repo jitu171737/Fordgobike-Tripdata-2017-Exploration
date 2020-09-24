@@ -1,7 +1,8 @@
 # Fordgobike-Tripdata-2017-Exploration
 - Here I used Bay Wheels's trip data 
 - Dataset contains 16 columns and 519700 rows
-- colimns are: - Trip Duration (seconds)
+- colimns are: 
+               - Trip Duration (seconds)
                - Start Time and Date
                - End Time and Date
                - Start Station ID
